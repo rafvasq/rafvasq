@@ -39,7 +39,7 @@
   <img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=flat&logo=Unity&logoColor=black" />
 </p>
 
-<h4>Tools I've played with:</h4>
+<h4>Tools I've worked with:</h4>
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-100000?style=flat&logo=git&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/Jest-43853D?style=flat&logo=Jest" />
