@@ -1,7 +1,12 @@
 ### 👋
 
 <p> 
-  I'm a software engineer working at <img src="Assets/Images/ibm.svg" width="40" style="margin-bottom:-12px"> where I'm part of a cross-functional team helping to design, develop, test, and deliver Cloud-based solutions while delivering a client-centered co-creation experience. 
+  I'm a software engineer working at <img src="Assets/Images/ibm.svg" width="40" style="margin-bottom:-12px"> where I'm part of a [cross-functional team](https://www.ibm.com/garage) helping to design, develop, test, and deliver Cloud-based solutions while delivering a client-centered co-creation experience. 
+  
+  Previously, I was a Data Scientist at Loblaw Companies Ltd. where I worked on supervised learning and time series problems such as identifying and forecasting customer behaviour patterns. I was also involved in a [smart cities-related startup](https://www.irisradgroup.com/) where I’m developing statistical models to identify various road defects. 
+
+  I also completed a Master's thesis using reinforcement learning and virtual reality in Unity to [teach a simulated vehicle to brake safely](https://www.technologyreview.com/2019/04/23/135985/should-a-self-driving-car-protect-a-passenger-or-pedestrian-ideally-both/).
+
 </p>
 
 <h4> Connect with me</h4>
