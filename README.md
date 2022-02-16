@@ -18,7 +18,7 @@
 <a href="https://rafael-vasquez.com/stuff/" target="_blank"><img alt="MyWebsite" src="https://img.shields.io/badge/my_website-%2312100E.svg?&style=for-the-badge&color=red" /></a>
 <!-- <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->
 
-<h4>Languages I code in</h4>
+<h4>Languages I code in:</h4>
 <p>
 <!--   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -29,7 +29,7 @@
   <img alt="SQL" src="https://img.shields.io/badge/-MySQL-4aadd4?style=flat&logo=MySQL&logoColor=white" />
 </p>
 
-<h4>Tech I use</h4>
+<h4>Tech I use:</h4>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-00008B?style=flat&logo=docker" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-A9A9A9?style=flat&logo=kubernetes" />
@@ -40,7 +40,7 @@
   <img alt="OpenShift" src="https://img.shields.io/badge/OpenShift-informational?style=flat&logo=redhat&color=red" />
 </p>
 
-<h4>Tools I play with</h4>
+<h4>Tools I play with:</h4>
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-100000?style=flat&logo=git&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/Jest-43853D?style=flat&logo=Jest" />
@@ -53,7 +53,7 @@
 <!--   <img alt="GNU" src="https://img.shields.io/badge/Bash_Scripting-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=e63576" /> -->
 </p>
 
-### Some open source projects I've contributed to
+<h4> Some open source projects I've contributed to: </h4>
 
 <table>
   <thead align="center">
