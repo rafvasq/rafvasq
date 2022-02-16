@@ -7,7 +7,7 @@
   src="Assets/Images/ibm.svg" width="40" style="margin-bottom:-12px"> where I'm part of a cross-functional team helping to design, develop, test, and deliver Cloud-based solutions while delivering a client-centered co-creation experience. 
 </p>
 
-#### Let's connect
+<h4> Connect with me</h4>
 
 <p>
 <a href="https://github.com/rafvasq" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github" /></a> 
@@ -16,7 +16,7 @@
 <a href="https://rafael-vasquez.com/stuff/" target="_blank"><img alt="MyWebsite" src="https://img.shields.io/badge/my_website-%2312100E.svg?&style=for-the-badge&color=red" /></a>
 <!-- <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->
 
-<h3>Languages I code in</h3>
+<h4>Languages I code in</h4>
 <p>
 <!--   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -27,26 +27,26 @@
   <img alt="SQL" src="https://img.shields.io/badge/-MySQL-4aadd4?style=flat&logo=MySQL&logoColor=white" />
 </p>
 
-<h3>Tech I use</h3>
+<h4>Tech I use</h4>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-00008B?style=flat&logo=docker" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-A9A9A9?style=flat&logo=kubernetes" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm" />
   <img alt="homebrew" src="https://img.shields.io/badge/-Homebrew-2e2a24?style=flat&logo=homebrew" />
-  <img alt="Unity" src="https://img.shields.io/badge/Unity-%2312100E.svg?&style=flat&logo=Unity&logoColor=white&color=0dba89" />
-  <img alt="IBM Cloud" src="https://img.shields.io/badge/IBM_Cloud-informational?style=flat-square&logo=IBM" />
-  <img alt="OpenShift" src="https://img.shields.io/badge/OpenShift-informational?style=flat-square&logo=redhat&color=red" />
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=flat&logo=Unity&logoColor=black" />
+  <img alt="IBM Cloud" src="https://img.shields.io/badge/IBM_Cloud-informational?style=flat&logo=IBM" />
+  <img alt="OpenShift" src="https://img.shields.io/badge/OpenShift-informational?style=flat&logo=redhat&color=red" />
 </p>
 
-<h3>Tools I play with</h3>
+<h4>Tools I play with</h4>
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-100000?style=flat&logo=git&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/Jest-43853D?style=flat&logo=Jest" />
   <img alt="Botium" src="https://img.shields.io/badge/Botium-0000FF?style=flat" />
-  <img alt="IBM Watson" src="https://img.shields.io/badge/IBM_Watson-000000?style=flat-square&logo=IBM-Watson" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-00008B?style=flat-square&logo=pandas" />
-  <img alt="Spark" src="https://img.shields.io/badge/Spark-0d6efd?style=flat-square&logo=apachespark" />
-  <img alt="OpenShift" src="https://img.shields.io/badge/OpenShift-FF0000?style=flat-square&logo=redhat" />
+  <img alt="IBM Watson" src="https://img.shields.io/badge/IBM_Watson-000000?style=flat&logo=IBM-Watson" />
+  <img alt="Spark" src="https://img.shields.io/badge/Spark-0d6efd?style=flat&logo=apachespark" />
+  <img alt="Pandas" src="https://img.shields.io/badge/pandas-00008B?style=flat&logo=pandas" />
+  <img alt="Sklearn" src="https://img.shields.io/badge/sklearn-0000FF?style=flat&logo=scikit-learn" />
 <!--   <img alt="AndroidStudio" src="https://img.shields.io/badge/Android_Studio-informational?style=flat-square&logo=Android-Studio&logoColor=white&color=de57be" /> -->
 <!--   <img alt="GNU" src="https://img.shields.io/badge/Bash_Scripting-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=e63576" /> -->
 </p>
