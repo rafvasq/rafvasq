@@ -1,10 +1,7 @@
-### Hi there 👋
-
-<!-- "https://emojis.slackmojis.com/emojis/images/1471045852/842/hi.gif?1471045852" -->
+### 👋
 
 <p> 
-  I'm a software engineer working in <b>Toronto, Canada</b> <img src="Assets/Images/canada.svg" width="16" style="max-width: 100%;margin-bottom: -2px;"/> at <img
-  src="Assets/Images/ibm.svg" width="40" style="margin-bottom:-12px"> where I'm part of a cross-functional team helping to design, develop, test, and deliver Cloud-based solutions while delivering a client-centered co-creation experience. 
+  I'm a software engineer working at <img src="Assets/Images/ibm.svg" width="40" style="margin-bottom:-12px"> where I'm part of a cross-functional team helping to design, develop, test, and deliver Cloud-based solutions while delivering a client-centered co-creation experience. 
 </p>
 
 <h4> Connect with me</h4>
