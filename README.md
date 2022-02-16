@@ -18,7 +18,7 @@
 </p>
 
 
-<h4>Languages I've code in:</h4>
+<h4>Languages I've coded in:</h4>
 <p>
 <!--   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
