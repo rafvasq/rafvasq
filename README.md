@@ -65,15 +65,15 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/machine-learning-exchange/mlx"><b>Machine Learning Exchange</b></a></td>
+      <td><a href="https://github.com/machine-learning-exchange/"><b>Machine Learning Exchange</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/machine-learning-exchange/mlx?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Call-for-Code-for-Racial-Justice/Incident-Accuracy-Reporting-System"><b>Call-for-Code-for-Racial-Justice/Incident-Accuracy-Reporting-System</b></a></td>
+      <td><a href="https://github.com/Call-for-Code-for-Racial-Justice/Incident-Accuracy-Reporting-System"><b>Incident Accuracy Reporting System</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Call-for-Code-for-Racial-Justice/Incident-Accuracy-Reporting-System?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Call-for-Code-for-Racial-Justice/Five-Fifths-Voter"><b>Call-for-Code-for-Racial-Justice/Five-Fifths-Voter</b></a></td>
+      <td><a href="https://github.com/Call-for-Code-for-Racial-Justice/Five-Fifths-Voter"><b>Five Fifths Voter</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Call-for-Code-for-Racial-Justice/Five-Fifths-Voter?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
