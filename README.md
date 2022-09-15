@@ -8,7 +8,7 @@
 
 <p> 
   
-  I'm a software engineer working at  <img src="Assets/Images/ibm.svg" width="40" style="margin-bottom:-12px">  where I'm part of a [cross-functional team](https://www.ibm.com/garage/) helping to design, develop, test, and deliver Cloud-based solutions while delivering a client-centered co-creation experience. 
+  I'm a software engineer working at  <img src="Assets/Images/ibm.svg" width="40" style="margin-bottom:-12px">  where I'm part of [CODAIT](https://www.ibm.com/opensource/centers/codait/) working to improve frameworks to make open source AI models easier to create, deploy, and manage.
   
   Previously, I was a Data Scientist at Loblaw Companies Ltd. where I worked on supervised learning and time series problems such as identifying and forecasting customer behaviour patterns. I was also involved in a [smart cities-related startup](https://www.irisradgroup.com/) where I developed statistical models to identify various road defects.
 
