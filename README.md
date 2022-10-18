@@ -24,7 +24,6 @@
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
   <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4aadd4?style=flat&logo=MySQL&logoColor=white" />
 </p>
 
@@ -46,10 +45,7 @@
   <img alt="Spark" src="https://img.shields.io/badge/Spark-0d6efd?style=flat&logo=apachespark" />
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-00008B?style=flat&logo=pandas" />
   <img alt="Sklearn" src="https://img.shields.io/badge/sklearn-0000FF?style=flat&logo=scikit-learn" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm" />
   <img alt="homebrew" src="https://img.shields.io/badge/-Homebrew-2e2a24?style=flat&logo=homebrew" />
-<!--   <img alt="AndroidStudio" src="https://img.shields.io/badge/Android_Studio-informational?style=flat-square&logo=Android-Studio&logoColor=white&color=de57be" /> -->
-<!--   <img alt="GNU" src="https://img.shields.io/badge/Bash_Scripting-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=e63576" /> -->
 </p>
 
 <h4> Open source projects I've contributed to: </h4>
@@ -62,6 +58,10 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/kserve"><b>KServe</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kserve?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/machine-learning-exchange/"><b>Machine Learning Exchange</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/machine-learning-exchange/mlx?style=flat-square&labelColor=343b41"/></td>
