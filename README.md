@@ -10,7 +10,7 @@
   
   I'm a software developer working at  <img src="Assets/Images/ibm.svg" width="40" style="margin-bottom:-12px">  interested in building my skills in MLOps through open source.
   
-  Previously, I was a Data Scientist at [Loblaw Companies Ltd.](https://www.loblaw.ca/) where I worked on supervised learning and time series problems such as identifying and forecasting customer behaviour patterns. I was also involved in a [smart cities-related startup](https://www.irisradgroup.com/) where I developed statistical models to identify various road defects.
+  Previously, I was a data scientist working on supervised learning and time series problems such as identifying and forecasting customer behaviour patterns in retail. I was also involved in a [smart cities-related startup](https://www.irisradgroup.com/) where I developed statistical models to identify various road defects.
 
   I completed a Master's thesis combining reinforcement learning and virtual reality in Unity to [teach a simulated vehicle to brake safely](https://www.technologyreview.com/2019/04/23/135985/should-a-self-driving-car-protect-a-passenger-or-pedestrian-ideally-both/).
 
