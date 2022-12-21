@@ -61,6 +61,10 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kserve?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/kserve/modelmesh-serving"><b>ModelMesh</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kserve/modelmesh-serving?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/machine-learning-exchange/"><b>Machine Learning Exchange</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/machine-learning-exchange/mlx?style=flat-square&labelColor=343b41"/></td>
     </tr>
