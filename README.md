@@ -10,9 +10,9 @@
   
   WIP software developer interested in MLOps and open source.
   
-  Formerly a data scientist working on supervised learning and time series problems such as identifying and forecasting customer behaviour patterns in retail and involved with a [smart cities-related startup](https://www.irisradgroup.com/) developing statistical models to identify various road defects.
+  Formerly a data scientist working on supervised learning and time series problems such as identifying and forecasting customer behaviour patterns in retail and contributing to a [smart cities-related startup](https://www.irisradgroup.com/) developing statistical models to identify road defects.
 
-  Peviously researched a combination of reinforcement learning and virtual reality to [teach a simulated vehicle to brake safely](https://www.technologyreview.com/2019/04/23/135985/should-a-self-driving-car-protect-a-passenger-or-pedestrian-ideally-both/).
+  Previously did research using reinforcement learning and virtual reality to [teach a simulated vehicle to brake safely](https://www.technologyreview.com/2019/04/23/135985/should-a-self-driving-car-protect-a-passenger-or-pedestrian-ideally-both/).
 
 </p>
 <h4>Languages I've coded in:</h4>
