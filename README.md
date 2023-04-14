@@ -32,6 +32,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-00008B?style=flat&logo=docker" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-A9A9A9?style=flat&logo=kubernetes" />
   <img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=flat&logo=Unity&logoColor=black" />
+  <img alt="Databricks" src="https://img.shields.io/badge/Databricks-red?style=flat&logo=databricks&logoColor=black" />
 </p>
 
 <h4>Tools I've worked with:</h4>
