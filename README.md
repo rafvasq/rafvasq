@@ -47,7 +47,7 @@ Previously, an MASc. student using reinforcement learning and virtual reality to
   <img alt="homebrew" src="https://img.shields.io/badge/-Homebrew-2e2a24?style=flat&logo=homebrew" />
 </p>
 
-<h4> Open source projects I've contributed to: </h4>
+<h4> Projects I've contributed to: </h4>
 
 <table>
   <thead align="center">
