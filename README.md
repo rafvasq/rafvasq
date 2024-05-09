@@ -59,7 +59,7 @@ Previously, an MASc. student using reinforcement learning and virtual reality to
   <tbody>
     <tr>
       <td><a href="https://github.com/instructlab/instructlab"><b>InstructLab</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/instructlab/mlx?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/instructlab/instructlab?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/kserve"><b>KServe</b></a></td>
