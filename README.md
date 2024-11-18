@@ -8,7 +8,7 @@
 
 <p> 
   
-Currently, a growing software developer interested in MLOps and open source and maintainer of [KServe/ModelMesh](https://github.com/kserve/modelmesh-serving).
+A growing software developer interested in MLOps and open source. 
 
 Formerly, a data scientist working on supervised learning and time series problems such as identifying and forecasting customer behaviour patterns in retail and contributing to a [smart cities-related startup](https://www.irisradgroup.com/) developing statistical models to identify road defects.
 
