@@ -9,11 +9,11 @@
 
 <p> 
   
-Software developer on the Open Tech team at IBM Research. I contribute to open source, present at international conferences, mentor new contributors, and build tutorials to support the developer community.
+I'm an Open Source Software Developer at IBM, most recently contributing to a vLLM plugin for hardware enablement on the IBM Spyre Accelerator. Before that, I maintained KServe/ModelMesh. 
 
-Previously I worked as data scientist focused on supervised learning and time series forecasting - identifying customer behaviour patterns in retail while developing statistical models for road defect detection at a smart cities startup.contributing to a [smart cities-related startup](https://www.irisradgroup.com/).
+I also do developer advocacy work: 10+ international conference talks, mentoring new contributors, and maintaining the IBM Granite Community on GitHub. 
 
-Before that, I completed a MASc. exploring how reinforcement learning and virtual reality could be used to [teach simulated vehicles to brake safely](https://www.technologyreview.com/2019/04/23/135985/should-a-self-driving-car-protect-a-passenger-or-pedestrian-ideally-both/).
+My background includes a MASc spanning reinforcement learning, virtual reality, and autonomous vehicle research, and time spent in retail data science.
 
 <h4> Projects I've contributed to: </h4>
 
