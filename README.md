@@ -1,54 +1,26 @@
 <p>
-  <!-- <a href="https://twitter.com/rafvasq" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
-  <a href="https://www.linkedin.com/in/~rafaelvasquez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://rafvasq.github.io/" target="_blank"><img alt="Posts" src="https://img.shields.io/badge/posts-%2312100E.svg?&style=for-the-badge&color=green" /></a>
-  <a href="https://rafvasq.github.io/talks" target="_blank"><img alt="Talks" src="https://img.shields.io/badge/talks-%2312100E.svg?&style=for-the-badge&color=red" /></a>
-<!--   <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->
+  <a href="https://www.linkedin.com/in/~rafaelvasquez/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin" /></a>
 </p>
 
+I'm an Open Source Software Developer at IBM working in the AI inference space. I've contributed to vLLM and built a vLLM plugin for hardware enablement on the IBM Spyre Accelerator, and before that I maintained KServe/ModelMesh for model serving.
 
-<p> 
-  
-I'm an Open Source Software Developer at IBM, most recently contributing to a vLLM plugin for hardware enablement on the IBM Spyre Accelerator. Before that, I maintained KServe/ModelMesh. 
-
-I also do developer advocacy work: 10+ international conference talks, mentoring new contributors, and maintaining the IBM Granite Community on GitHub. 
+I also do developer advocacy work: 10+ international conference talks on LLM inference and model serving, mentoring new contributors, and writing blogs and tutorials.
 
 My background includes a MASc spanning reinforcement learning, virtual reality, and autonomous vehicle research, and time spent in retail data science.
 
-<h4> Projects I've contributed to: </h4>
+#### Projects I've worked on
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Projects</b></td>
-      <td><b>Stars</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/vllm-project/vllm"><b>vLLM</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/vllm-project/vllm?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kserve"><b>KServe</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kserve?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kserve/modelmesh-serving"><b>ModelMesh</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kserve/modelmesh-serving?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/instructlab/instructlab"><b>InstructLab</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/instructlab/instructlab?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/caikit/caikit"><b>Caikit</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/caikit/caikit?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/machine-learning-exchange/"><b>Machine Learning Exchange</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/machine-learning-exchange/mlx?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
+| Project | Role | What I did |
+|---|---|---|
+| [IBM Granite Community](https://github.com/ibm-granite-community) | Maintainer, 2026–now | Workshop recipes per model release, CI build infrastructure, new models on Replicate and Ollama |
+| [vLLM-Spyre](https://github.com/vllm-project/vllm-spyre) | Maintainer, 2025–2026 | FP8 quantization, sliding window attention, tensor-parallel tests, CI/CD with model caching, docs |
+| [vLLM](https://github.com/vllm-project/vllm) | Contributor, 2024–2025 | Bug fixes, frontend features, CI linting, docs |
+| [KServe ModelMesh](https://github.com/kserve/modelmesh-serving) | Maintainer, 2022–2024 | Multi-runtime serving (Triton, TorchServe, MLServer), gRPC/dependency updates, Grafana dashboards |
 
+I've also contributed to [InstructLab](https://github.com/instructlab/instructlab), [Caikit](https://github.com/caikit/caikit), and [Machine Learning Exchange](https://github.com/machine-learning-exchange/mlx).
+
+#### Selected talks
+
+- *Fast Inference, Furious Scaling*, Open Source Summit NA 2025
+- *Leveraging Open Source AI Securely and Privately*, Devopsdays Geneva 2025
+- [All talks & workshops →](https://rafvasq.github.io/talks)
