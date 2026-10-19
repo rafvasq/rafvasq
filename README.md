@@ -12,6 +12,7 @@ My background includes a MASc spanning reinforcement learning, virtual reality, 
 
 | Project | Role | What I did |
 |---|---|---|
+| [Mellea](https://github.com/generative-computing/mellea) | Contributor, 2026–now | Bug fixes, PR reviews, documentation |
 | [IBM Granite Community](https://github.com/ibm-granite-community) | Maintainer, 2026–now | Workshop recipes per model release, CI build infrastructure, new models on Replicate and Ollama |
 | [vLLM-Spyre](https://github.com/vllm-project/vllm-spyre) | Maintainer, 2025–2026 | FP8 quantization, sliding window attention, tensor-parallel tests, CI/CD with model caching, docs |
 | [vLLM](https://github.com/vllm-project/vllm) | Contributor, 2024–2025 | Bug fixes, frontend features, CI linting, docs |
